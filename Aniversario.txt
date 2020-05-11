@@ -1,0 +1,45 @@
+<HTML>
+<HEAD>
+<TITLE> ¡¡Feliz aniversario amor mío!! </TITLE>
+</HEAD>
+<p>
+<p>	
+<center> <H1> ¡¡Feliz aniversario amor mío!! <font TEXT="Lucida Handwriting"> </H1>
+</HEAD>
+<body background="fondo.jpg">
+
+
+<BODY> 
+</p>
+<a href="Historia.html">
+<img src="historia.png" hspace=10"></a>
+<a href="canciones.html">
+<img src="canciones.png" hspace="10"></a>
+<a href="momentos.html">
+<img src="momentos.png" hspace="10"></a>
+<a href="bonus.html">
+<img src="bonus.png" hspace="10"></a>
+
+<p>
+
+<center><table border="1" width="65%" bgcolor="#f7d4ed">
+
+<tr>
+<td><img src="Nuestra foto2.jpg"></td>
+<td><P STYLE="text-align:justify;margin-right:25px;margin-left:25px;"> <em> <font size="4"><font TEXT="2Palatino Linotype">  Hoy cumplimos 2 años de haber tomado una decisión que ninguno de los dos se imaginaba que sería tan importante en nuestras vidas, no imaginabamos que la persona que estaba al frente de nosotros se iba a convertir en alguien tan importante de allí en adelante... Me siento inmensamente feliz por haber encontrado a un ser tan maravilloso en mi camino, y que Dios me haya permito estar junto a tí. <em>
+<p>
+<P STYLE="text-align:justify;margin-right:25px;margin-left:25px;"> <em> <font size="4"><font TEXT="2Palatino Linotype"> Han sido dos años de aprendizajes, de muchísimos momentos muy buenos y otros pocos que no lo son tanto, pero que nos hacen crecer como personas y como pareja. Han sido dos años en los que he sentido el gozo y la dicha de amar a una gran persona, de enamorarme cada día de tus virtudes y defectos, de ver como has crecido en todos los aspectos en tu vida; no podría sentirme más orgullosa de ti, porque sé que te has esforzado enormemente  cada una de las cosas que has alcanzado hasta el día de hoy. Este es el segundo, de los muchos años que vamos a celebrar juntos!! Feliz aniversario amor de mi vida!!
+
+ <p>
+
+
+</h4> </td>
+</tr>
+</table></center>
+
+
+<tr>
+
+</BODY>
+</HTML>ML>
+</HTML>
